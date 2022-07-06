@@ -1,2 +1,2 @@
 # revisao-trybe
-Course review 
+Repositório criado para revisar os conteúdos da Trybe.
